@@ -46,6 +46,4 @@ I'm a frontend developer.
 - Github：[**Github**](https://github.com/sisyphusla)
 - Email：[**Gmail**](aple83709@gmail.com)
 
-### Badges
 
-<a href="https://github.com/sisyphusla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisyphusla&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
