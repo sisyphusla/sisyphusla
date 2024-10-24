@@ -1,18 +1,20 @@
 **Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trent**
 
 I'm a frontend developer.
+Love studying SEO and automation tools.
 
 -------------------------
 
 
 ## 我的專案：
-- [**Blog**](https://www.trentbe.dev/): 使用svelte-kit架設的部落格。
-- [**TFTRank**](https://tftrank.vercel.app/): 為TFT實況主以及觀眾提供及時戰況以及排名而生的網站。🗂️→[Repo](https://github.com/sisyphusla/TFTRank)
-- [**newPlusLab**](https://github.com/sisyphusla/newPlusLab): 專為新手打造的台股投資教學模擬網站，在code camp所做的合作專題。🗂️→[Repo](https://github.com/sisyphusla/newPlusLab)
-- [**JavaScript30**](https://sisyphusla.github.io/Javascript30/): 將JavaScript30 challenges我學習到的知識，製作成一個互動網站，在code camp所做的個人專題。🗂️→[Repo](https://github.com/sisyphusla/Javascript30)
+- [**Podcast Transcription**](https://www.trent-finance.com/): 使用 Whisper 轉錄後，自動化製作 OG Image，並專注於 SEO 的逐字稿分享網站。
+- [**股票報告-產業觀點**](https://jackson-tseng.vercel.app/): 使用 svelte-ki t架設的部落格。🗂️ → [Repo](https://github.com/sisyphusla/jackson-tseng)
+- [**Blog**](https://www.trentbe.dev/): 使用 Next.js 14 開發的台股研究報告整合平台，提供券商研究報告的動能觀點和即時股價資訊。
+- [**TFTRank**](https://tftrank.vercel.app/): 為TFT實況主以及觀眾提供及時戰況以及排名而生的網站。🗂️ → [Repo](https://github.com/sisyphusla/TFTRank)
+
 
 ## 聯絡我：
-- 個人部落格：[**Blog**](https://www.trentbe.dev/)
+
 - Github：[**Github**](https://github.com/sisyphusla)
 - Email：[**Gmail**](aple83709@gmail.com)
 
