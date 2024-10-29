@@ -20,9 +20,10 @@ const skills = {
 
 ### [Podcast Transcription](https://www.trent-finance.com/)
 Automated podcast transcription service using OpenAI's Whisper ASR model
-- SEO-optimized subtitle generation
-- Enhanced accessibility for hearing-impaired users
-- Audio content optimization
+- Powered by OpenAI's Whisper ASR model
+- Automated publishing workflow
+- Enhanced content accessibility for hearing-impaired users
+- Focus on search engine optimization
 
 ### [Stock Report Platform](https://jackson-tseng.vercel.app/)
 Real-time stock analysis platform with interactive financial reports
