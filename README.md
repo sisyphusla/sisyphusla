@@ -18,7 +18,7 @@ const skills = {
 
 ## Featured Projects 🌟
 
-### [Podcast Transcription](https://www.trent-finance.com/)
+### [Podcast Transcription](https://www.gooayetranscript.com/)
 Automated podcast transcription service using OpenAI's Whisper ASR model
 - Powered by OpenAI's Whisper ASR model
 - Automated publishing workflow
