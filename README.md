@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mark Trent
+# Hi there! 👋 I'm Mark Chen
 
 Frontend Engineer specialized in developing high-traffic, SEO-optimized websites with React.js/Next.js.  
 Passionate about optimizing web performance and creating impactful user experiences.
